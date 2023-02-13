@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Colavito"
+  given-names: "Giuseppe"
+  orcid: "https://orcid.org/0000-0003-3871-401X"
+- family-names: "Lanubile"
+  given-names: "Filippo"
+  orcid: "https://orcid.org/0000-0003-3373-7589"
+- family-names: "Novielli"
+  given-names: "Nicole"
+  orcid: "https://orcid.org/0000-0003-1160-2608"
+title: "Few-Shot Learning for Issue Report Classification"
+version: 1.0.0
+date-released: 2023-02-13
+url: "https://github.com/collab-uniba/Issue-Report-Classification-NLBSE2023"
