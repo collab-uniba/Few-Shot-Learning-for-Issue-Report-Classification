@@ -42,5 +42,10 @@ To cite this repository
 
 To cite the paper:
 ```
-(to appear)
+@inproceedings{Colavito-2023,
+  title = {Few-Shot Learning for Issue Report Classification},
+  booktitle = {2nd International Workshop on Natural Language-Based Software Engineering (NLBSE)},
+  author = {Colavito, Giuseppe and Lanubile, Filippo and Novielli, Nicole},
+  year = {2023},
+}
 ```
