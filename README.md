@@ -2,6 +2,8 @@
 
 This repository contains notebooks for training and testing the classifiers for our participation in the tool competition organized in the scope of the [2st International Workshop on Natural Language-based Software Engineering](https://nlbse2023.github.io/).
 
+Our fine-tuned SETFIT model is available on [HuggingFace](https://huggingface.co/PeppoCola/FewShotIssueClassifier-NLBSE23).
+
 ## How to use
 
 - `NLBSE23_1_Preprocessing.ipynb`: Runs preprocessing and saves output in order to be used from the other notebooks.
